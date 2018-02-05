@@ -1,13 +1,13 @@
 {
     "package": {
-        "name": "booklet-smacc",
+        "name": "booklet-Geographical",
         "repo": "wip",
         "subject": "squarebracketassociates",
         "desc": "Smacc",
         "licenses": ["MIT"],
-        "website_url": "https://github.com/SquareBracketAssociates/Booklet-Smacc",
-        "issue_tracker_url": "https://github.com/SquareBracketAssociates/Booklet-Smacc/issues",
-        "vcs_url": "https://github.com/SquareBracketAssociates/Booklet-Smacc.git",
+        "website_url": "https://github.com/SquareBracketAssociates/Booklet-Geographical",
+        "issue_tracker_url": "https://github.com/SquareBracketAssociates/Booklet-Geographical/issues",
+        "vcs_url": "https://github.com/SquareBracketAssociates/Booklet-Geographical.git",
         "labels": ["work-in-progress"]
     },
 
@@ -18,7 +18,7 @@
 
     "files": [
         {
-            "includePattern": "build/(smacc).spiral.pdf",
+            "includePattern": "build/Geographical.spiral.pdf",
             "uploadPattern": "$1-wip.pdf",
             "matrixParams": { "override": 1 }
         }
