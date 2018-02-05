@@ -18,8 +18,8 @@
 
     "files": [
         {
-            "includePattern": "build/Geographical.spiral.pdf",
-            "uploadPattern": "$1-wip.pdf",
+            "includePattern": "build/book.spiral.pdf",
+            "uploadPattern": "$Geographical-wip.pdf",
             "matrixParams": { "override": 1 }
         }
     ],
