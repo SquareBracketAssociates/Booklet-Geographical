@@ -1,11 +1,11 @@
-# A booklet on the Smacc compiler compiler framework
+# A booklet on the Geographical framework
 
 [![Build status][badge]][travis]
 
-[travis]: https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc
-[badge]: https://travis-ci.org/SquareBracketAssociates/Booklet-Smacc.svg?branch=master
+[travis]: https://travis-ci.org/SquareBracketAssociates/Booklet-Geographical
+[badge]: https://travis-ci.org/SquareBracketAssociates/Booklet-Geographical.svg?branch=master
 
-The result from the latest successful Travis build can be found [on Bintray (PDF)](https://bintray.com/squarebracketassociates/wip/download_file?file_path=smacc-wip.pdf).
+The result from the latest successful Travis build can be found [on Bintray (PDF)](https://bintray.com/squarebracketassociates/wip/download_file?file_path=Geographical-wip.pdf).
 
 ## To contribute
 
